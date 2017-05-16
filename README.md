@@ -20,6 +20,6 @@
 ---
 
 > 以下是Python学习日志
-- [2017.5.16<Python编程语言初接触>](https://github.com/flysafely/2017.5.15-Python/blob/master/README.md)
+- [2017.5.16<Python编程语言初接触>] (https://github.com/flysafely/2017.5.15-Python/blob/master/README.md)
 
 
