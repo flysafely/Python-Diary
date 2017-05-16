@@ -19,6 +19,6 @@
 
 > 以下是Python学习日志
 ---
-* [2017.5.16-Python编程语言初接触](https://github.com/flysafely/2017.5.15-Python/blob/master/README.md)
+* [2017.5.16-Python编程语言初接触](https://github.com/flysafely/Python-Diary/blob/master/2017.5.15%3CPython%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%88%9D%E6%8E%A5%E8%A7%A6%3E)
 
 
