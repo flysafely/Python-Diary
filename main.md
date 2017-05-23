@@ -30,3 +30,8 @@
 * [2017.5.18-Python核心数据操作](https://github.com/flysafely/Python-Diary/blob/master/2017.5.18-Python%E6%A0%B8%E5%BF%83%E6%95%B0%E6%8D%AE%E6%93%8D%E4%BD%9C.md)
 
 * [2017.5.18-Python核心数据操作2](https://github.com/flysafely/Python-Diary/blob/master/2017.5.19-Python%E6%A0%B8%E5%BF%83%E6%95%B0%E6%8D%AE%E6%93%8D%E4%BD%9C2.md)
+
+* [2017.5.19-Python核心数据操作2](https://github.com/flysafely/Python-Diary/blob/master/2017.5.19-Python%E6%A0%B8%E5%BF%83%E6%95%B0%E6%8D%AE%E6%93%8D%E4%BD%9C2.md)
+
+* [2017.5.22-Python序列类型之列表](https://github.com/flysafely/Python-Diary/blob/master/2017.5.22-Python%E5%BA%8F%E5%88%97%E7%B1%BB%E5%9E%8B%E4%B9%8B%E5%88%97%E8%A1%A8.md)
+
