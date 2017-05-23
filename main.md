@@ -35,3 +35,5 @@
 
 * [2017.5.22-Python序列类型之列表](https://github.com/flysafely/Python-Diary/blob/master/2017.5.22-Python%E5%BA%8F%E5%88%97%E7%B1%BB%E5%9E%8B%E4%B9%8B%E5%88%97%E8%A1%A8.md)
 
+* [2017.5.23-Python迭代相关问题](https://github.com/flysafely/Python-Diary/blob/master/2017.5.23-Python%E8%BF%AD%E4%BB%A3%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)
+
