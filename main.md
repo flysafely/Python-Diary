@@ -37,4 +37,4 @@
 
 * [2017.5.23-Python迭代相关问题](https://github.com/flysafely/Python-Diary/blob/master/2017.5.23-Python%E8%BF%AD%E4%BB%A3%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)
 
-* [2017.5.23-Python字典相关问题](https://github.com/flysafely/Python-Diary/blob/master/2017.5.24-Python%E5%AD%97%E5%85%B8%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)
+* [2017.5.24-Python字典相关问题](https://github.com/flysafely/Python-Diary/blob/master/2017.5.24-Python%E5%AD%97%E5%85%B8%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)
