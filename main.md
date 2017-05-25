@@ -38,3 +38,5 @@
 * [2017.5.23-Python迭代相关问题](https://github.com/flysafely/Python-Diary/blob/master/2017.5.23-Python%E8%BF%AD%E4%BB%A3%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)
 
 * [2017.5.24-Python字典相关问题](https://github.com/flysafely/Python-Diary/blob/master/2017.5.24-Python%E5%AD%97%E5%85%B8%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)
+
+* [2017.5.25-Python可调用对象，以及列表和字典的原处修改特性](https://github.com/flysafely/Python-Diary/blob/master/2017.5.25-Python%E5%8F%AF%E8%B0%83%E7%94%A8%E5%AF%B9%E8%B1%A1%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%88%97%E8%A1%A8%E5%92%8C%E5%AD%97%E5%85%B8%E7%9A%84%E5%8E%9F%E5%A4%84%E4%BF%AE%E6%94%B9%E7%89%B9%E6%80%A7.md)
