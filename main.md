@@ -18,6 +18,8 @@
 
 * [世纪购iOS App(Demo)-Objective-C](https://github.com/flysafely/NCDS-APP-DEMO)
 
+* [免费！批量下载唱吧主播歌曲-学习讨论-Python](https://github.com/flysafely/ChangBa-Download-Song-Free)
+
 > 以下是Python学习日志
 ---
 
