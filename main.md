@@ -44,3 +44,5 @@
 * [2017.5.31-Python条件测试以及IF语句](https://github.com/flysafely/Python-Diary/blob/master/2017.5.31-Python%E6%9D%A1%E4%BB%B6%E6%B5%8B%E8%AF%95%E4%BB%A5%E5%8F%8AIF%E8%AF%AD%E5%8F%A5.md)
 
 * [2017.6.1-Python之While循环](https://github.com/flysafely/Python-Diary/blob/master/2017.6.1-Python%E4%B9%8Bwhile%E5%BE%AA%E7%8E%AF.md)
+
+* [2017.6.4-Python打包成EXE文件]()
