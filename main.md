@@ -45,4 +45,4 @@
 
 * [2017.6.1-Python之While循环](https://github.com/flysafely/Python-Diary/blob/master/2017.6.1-Python%E4%B9%8Bwhile%E5%BE%AA%E7%8E%AF.md)
 
-* [2017.6.4-Python打包成EXE文件]()
+* [2017.6.4-Python用Pyinstaller打包EXE文件](https://github.com/flysafely/Python-Diary/blob/master/2017.6.4-Python-%E4%BD%BF%E7%94%A8Pyinstaller%E6%89%93%E5%8C%85EXE.md)
