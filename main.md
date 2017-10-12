@@ -7,6 +7,9 @@
 
 以下是些工具软件或者是VBA插件，都是为了工作便利，自己写的，大牛莫笑...
 
+* [Auto_input（现在工作中为单位写的自动费用录入器-Python）](https://github.com/flysafely/Auto_input)
+
+* [Space_Managementer（现在工作中为单位写的空间管理报表生成器-Python）](https://github.com/flysafely/Space_Managementer-2.05)
 
 * [PriceTagPrinter（现在工作中为单位写的价签生成器-VB.NET）](https://github.com/flysafely/PriceTagPrinter)
 
