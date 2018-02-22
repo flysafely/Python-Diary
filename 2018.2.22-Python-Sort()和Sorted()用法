@@ -1,5 +1,3 @@
-Python中的sorted() 和 list.sort() 的用法总结
-
 ## Sort()和Sorted()主要区别:
 * 只要是可迭代对象都可以用sorted 。
 
