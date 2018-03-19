@@ -23,8 +23,8 @@
 
 * [免费！批量下载唱吧主播歌曲-学习讨论-Python](https://github.com/flysafely/ChangBa-Download-Song-Free)
 
-> 以下是Python学习日志
 ---
+> 以下是Python学习日志
 
 * [Python编程日志](https://github.com/flysafely/Python-Diary)
 
