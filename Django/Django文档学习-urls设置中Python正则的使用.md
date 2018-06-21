@@ -45,3 +45,42 @@ def search_form(request,TEST):
 	print(TEST)
 	return render_to_response('search_form.html')
 ```
+
+* **kargs  和 name参数的作用
+
+**kargs 用来在urls.py的路由定义中给views.py传递参数值
+例如：
+在urls.py中
+```
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('getpath/<num>', views.current_url_view_good),
+    path('getmeta/', views.display_meta),
+    re_path(r'^search-form/', search_view.search_form, {'what':123}, name = 'search'),
+]
+在views.py中
+```
+from django.shortcuts import render
+from django.shortcuts import render_to_response
+from django.urls import reverse
+# Create your views here.
+
+def search_form(request, what):
+	print(what)
+	return render_to_response('search_form.html')
+	
+```
+在search_form.html中
+```
+<html>
+<head>
+    <title>Search</title>
+</head>
+<body>
+    <form action="{% url 'search'  %}" method="get">
+        <input type="text" name="q">
+        <input type="submit" value="Search">
+    </form>
+</body>
+</html>
+```
