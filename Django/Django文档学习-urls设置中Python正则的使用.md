@@ -63,14 +63,15 @@ urlpatterns = [
 from django.shortcuts import render
 from django.shortcuts import render_to_response
 from django.urls import reverse
-# Create your views here.
 
 def search_form(request, what):
 	print(what)
 	return render_to_response('search_form.html')
 	
 ```
+
 在search_form.html中
+
 ```
 <html>
 <head>
