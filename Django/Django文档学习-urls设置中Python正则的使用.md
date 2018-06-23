@@ -33,9 +33,10 @@ if(foundTagA):
 ```
 在urls.py 文件中
 例如:
+
 ```
-urlpatterns = [
-    re_path(r'^search-form/(?P<TEST>page[0-9]{4})/(?P=TEST)', search_view.search_form),
+urlpatterns =
+    re\_path(r'^search-form/(?P<TEST>page[0-9]{4})/(?P=TEST)', search_view.search_form),
 ]
 
 ```
@@ -52,13 +53,15 @@ def search_form(request,TEST):
 例如：
 在urls.py中
 ```
-urlpatterns = [
+urlpatterns = 
     path('admin/', admin.site.urls),
     path('getpath/<num>', views.current_url_view_good),
     path('getmeta/', views.display_meta),
     re_path(r'^search-form/', search_view.search_form, {'what':123}, name = 'search'),
 ]
+```
 在views.py中
+	
 ```
 from django.shortcuts import render
 from django.shortcuts import render_to_response
@@ -73,6 +76,7 @@ def search_form(request, what):
 在search_form.html中
 
 ```
+
 <html>
 <head>
     <title>Search</title>
@@ -84,4 +88,5 @@ def search_form(request, what):
     </form>
 </body>
 </html>
+
 ```
