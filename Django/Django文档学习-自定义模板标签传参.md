@@ -17,7 +17,7 @@ class CurrentTimeNode2(template.Node):
         return ''
 ```
 
-函数定义和注册
+* 函数定义和注册
 
 ```python
 @register.tag(name = 'do_current_time2')
@@ -30,7 +30,7 @@ def do_current_time2(parser, token):
     return CurrentTimeNode2(arg)
 ```
 
-注意 render() 返回了一个空字符串。 render() 应当总是返回一个字符串，所以如果模板标签只是要设置变量， render() 就应该返回一个空字符串。
+* 注意 render() 返回了一个空字符串。 render() 应当总是返回一个字符串，所以如果模板标签只是要设置变量， render() 就应该返回一个空字符串。
 
 你应该这样使用这个新版本的标签：
 
@@ -39,7 +39,7 @@ def do_current_time2(parser, token):
 <p>The time is {{ current_time }}.</p>
 ```
 
-但是 CurrentTimeNode2 有一个问题: 变量名 current_time 是硬编码的。 这意味着你必须确定你的模板在其它任何地方都不使用 {{ current_time }} ，因为 {% current_time2 %} 会盲目的覆盖该变量的值。
+* 但是 CurrentTimeNode2 有一个问题: 变量名 current_time 是硬编码的。 这意味着你必须确定你的模板在其它任何地方都不使用 {{ current_time }} ，因为 {% current_time2 %} 会盲目的覆盖该变量的值。
 
 一种更简洁的方案是由模板标签来指定需要设定的变量的名称，就像这样：
 
