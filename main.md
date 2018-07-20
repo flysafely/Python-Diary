@@ -26,5 +26,10 @@
 ---
 > 以下是Python学习日志
 
-* [Python编程日志](https://github.com/flysafely/Python-Diary)
+* [Python-Diary](https://github.com/flysafely/Python-Diary/tree/master/Python-Diary)
+* [Algorithm-Test](https://github.com/flysafely/Python-Diary/tree/master/Algorithm-Test)
+* [Django](https://github.com/flysafely/Python-Diary/tree/master/Django)
+* [Java-Test](https://github.com/flysafely/Python-Diary)
+* [Tensorflow](https://github.com/flysafely/Python-Diary/tree/master/Algorithm-Test)
+
 
