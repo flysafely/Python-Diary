@@ -6,9 +6,9 @@
 ### 作品标记
 
 【网站&App】
-* [NagetiveWebsite (使用Django写的知乎问答类社区平台-Pyhton) ](https://github.com/flysafely/Django-Pyhton-NagetiveWeb-Beta)
+* [NagetiveWebsite (使用Django写的知乎问答类社区平台-Python) ](https://github.com/flysafely/Django-Pyhton-NagetiveWeb-Beta)
 
-* [NagetiveWebsite (使用Django写的差评论坛社区"因不够简洁已经舍弃"-Pyhton) ](https://github.com/flysafely/NagetiveWebsite-Django)
+* [NagetiveWebsite (使用Django写的差评论坛社区"因不够简洁已经舍弃"-Python) ](https://github.com/flysafely/NagetiveWebsite-Django)
 
 * [世纪购iOS App(Demo)-Objective-C](https://github.com/flysafely/NCDS-APP-DEMO)
 
