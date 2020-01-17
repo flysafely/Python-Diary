@@ -1,7 +1,7 @@
 
 ## 斯是陋室-惟吾德馨
 
-学习如何使用Git和GitHub，把上班5年来写的一些程序先贴上来，时刻准备着投入撸码的大军中.
+•	极客、热爱技术、热爱开源
 
 ### 作品标记
 
@@ -36,10 +36,11 @@
 ---
 > 以下是Python学习日志
 
-* [Python-Diary](https://github.com/flysafely/Python-Diary/tree/master/Python-Diary)
+* [Python](https://github.com/flysafely/Python-Diary/tree/master/Python-Diary)
 * [Algorithm-Test](https://github.com/flysafely/Python-Diary/tree/master/Algorithm-Test)
 * [Django](https://github.com/flysafely/Python-Diary/tree/master/Django)
-* [Java-Test](https://github.com/flysafely/Python-Diary)
-* [Tensorflow](https://github.com/flysafely/Python-Diary/tree/master/Algorithm-Test)
+* [Spring](https://github.com/flysafely/JAVA/tree/master/Spring)
+* [Maven](https://github.com/flysafely/JAVA/tree/master/Maven)
+
 
 
